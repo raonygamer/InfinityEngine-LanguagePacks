@@ -1,0 +1,8 @@
+{
+  "language-pack": {
+    "id": "english",
+    "contents": {
+      "text.playButton.value": "Play"
+    }
+  } 
+}
