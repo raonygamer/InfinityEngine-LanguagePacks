@@ -3,7 +3,7 @@
     "name": "Vietnamese (Vietnam)",
     "id": "vietnamese",
     "contents": {
-      "text.playButton.value": "Chơi"
+      "lang.text.playButton.value": "Chơi"
     }
   } 
 }

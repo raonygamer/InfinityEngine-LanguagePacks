@@ -3,7 +3,7 @@
     "name": "English (United States)",
     "id": "english",
     "contents": {
-      "text.playButton.value": "Play"
+      "lang.text.playButton.value": "Play"
     }
   } 
 }
