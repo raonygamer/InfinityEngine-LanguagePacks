@@ -1,6 +1,7 @@
 {
   "language-pack": {
-    "id": "Vietnamese",
+    "name": "Vietnamese (Vietnam)",
+    "id": "vietnamese",
     "contents": {
       "text.playButton.value": "Chơi"
     }
