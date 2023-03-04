@@ -1,0 +1,12 @@
+{
+  "language-pack": {
+    "name": "Português (Brasil)",
+    "id": "brazilian-portuguese",
+    "contents": {
+      "lang.text.playButton.value": "Tocar",
+      "lang.text.modButtonName.value": "Nome:",
+      "lang.text.modButtonDescription.value": "Descrição:",
+      "lang.text.selectModToLoad.value": "Selecione um Mod para carregar..."
+    }
+  } 
+}
