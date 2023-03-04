@@ -5,7 +5,7 @@
     "contents": {
       "lang.text.playButton.value": "Play",
       "lang.text.modButtonName.value": "Name:",
-      "lang.text.modButtonDescription.value": "Description",
+      "lang.text.modButtonDescription.value": "Description:",
       "lang.text.selectModToLoad.value": "Select Mod To Load..."
     }
   } 
