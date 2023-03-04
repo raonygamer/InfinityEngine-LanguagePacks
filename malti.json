@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "malti",
+    "name": "Malti",
+    "contents": {
+      "lang.text.playButton.value": "Play"
+    }
+  }
+}

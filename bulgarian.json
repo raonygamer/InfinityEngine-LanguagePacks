@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "bulgarian",
+    "name": "Bulgarian",
+    "contents": {
+      "lang.text.playButton.value": "Игра"
+    }
+  }
+}

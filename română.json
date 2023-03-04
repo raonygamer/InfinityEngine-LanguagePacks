@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "română",
+    "name": "Română",
+    "contents": {
+      "lang.text.playButton.value": "Joaca"
+    }
+  }
+}

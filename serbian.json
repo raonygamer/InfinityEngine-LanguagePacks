@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "serbian",
+    "name": "serbian",
+    "contents": {
+      "lang.text.playButton.value": "Игра"
+    }
+  }
+}

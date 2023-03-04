@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "svenska",
+    "name": "Svenska",
+    "contents": {
+      "lang.text.playButton.value": "Spela"
+    }
+  }
+}

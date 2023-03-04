@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "finnish",
+    "name": "Finnish",
+    "contents": {
+      "lang.text.playButton.value": "pelata"
+    }
+  }
+}

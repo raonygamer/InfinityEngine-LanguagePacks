@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "cymraeg",
+    "name": "Cymraeg",
+    "contents": {
+      "lang.text.playButton.value": "Chwarae"
+    }
+  }
+}

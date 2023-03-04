@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "afrikaans",
+    "name": "Afrikaans",
+    "contents": {
+      "lang.text.playButton.value": "Toneelstuk"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "հայերեն",
+    "name": "Հայերեն",
+    "contents": {
+      "lang.text.playButton.value": "Խաղալ"
+    }
+  }
+}

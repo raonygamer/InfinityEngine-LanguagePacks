@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "slovenian",
+    "name": "Slovenian",
+    "contents": {
+      "lang.text.playButton.value": "Igrati"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "krio",
+    "name": "Krio",
+    "contents": {
+      "lang.text.playButton.value": "Ple"
+    }
+  }
+}

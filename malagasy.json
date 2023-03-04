@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "malagasy",
+    "name": "Malagasy",
+    "contents": {
+      "lang.text.playButton.value": "Play"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "telugu",
+    "name": "Telugu",
+    "contents": {
+      "lang.text.playButton.value": "ఆడండి"
+    }
+  }
+}

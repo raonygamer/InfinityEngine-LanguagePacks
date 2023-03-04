@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "bosnian",
+    "name": "Bosnian",
+    "contents": {
+      "lang.text.playButton.value": "Igrati"
+    }
+  }
+}

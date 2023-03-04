@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "македонски",
+    "name": "Македонски",
+    "contents": {
+      "lang.text.playButton.value": "Игра"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "portuguese",
+    "name": "portuguese",
+    "contents": {
+      "lang.text.playButton.value": "Jogar"
+    }
+  }
+}

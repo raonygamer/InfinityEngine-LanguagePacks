@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "uyghur",
+    "name": "Uyghur",
+    "contents": {
+      "lang.text.playButton.value": "Play"
+    }
+  }
+}

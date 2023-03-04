@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "catalan",
+    "name": "Catalan",
+    "contents": {
+      "lang.text.playButton.value": "Jugar"
+    }
+  }
+}

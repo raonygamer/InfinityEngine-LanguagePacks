@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "nld",
+    "name": "nld",
+    "contents": {
+      "lang.text.playButton.value": "Toneelstuk"
+    }
+  }
+}

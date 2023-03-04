@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "thai",
+    "name": "Thai",
+    "contents": {
+      "lang.text.playButton.value": "เล่น"
+    }
+  }
+}

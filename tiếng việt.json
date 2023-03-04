@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "tiếng việt",
+    "name": "Tiếng Việt",
+    "contents": {
+      "lang.text.playButton.value": "Chơi"
+    }
+  }
+}

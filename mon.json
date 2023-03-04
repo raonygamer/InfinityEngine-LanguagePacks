@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "mon",
+    "name": "mon",
+    "contents": {
+      "lang.text.playButton.value": "Тоглоом"
+    }
+  }
+}

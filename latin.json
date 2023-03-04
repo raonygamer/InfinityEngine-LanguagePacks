@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "latin",
+    "name": "Latin",
+    "contents": {
+      "lang.text.playButton.value": "Pale"
+    }
+  }
+}

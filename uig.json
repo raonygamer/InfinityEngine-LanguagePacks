@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "uig",
+    "name": "uig",
+    "contents": {
+      "lang.text.playButton.value": "Play"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "czech",
+    "name": "Czech",
+    "contents": {
+      "lang.text.playButton.value": "Hrát si"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "hin",
+    "name": "hin",
+    "contents": {
+      "lang.text.playButton.value": "खेल"
+    }
+  }
+}

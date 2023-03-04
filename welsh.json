@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "welsh",
+    "name": "Welsh",
+    "contents": {
+      "lang.text.playButton.value": "Chwarae"
+    }
+  }
+}

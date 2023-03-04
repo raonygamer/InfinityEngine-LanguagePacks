@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "русский",
+    "name": "Русский",
+    "contents": {
+      "lang.text.playButton.value": "Играть"
+    }
+  }
+}

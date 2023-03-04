@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "fin",
+    "name": "fin",
+    "contents": {
+      "lang.text.playButton.value": "pelata"
+    }
+  }
+}

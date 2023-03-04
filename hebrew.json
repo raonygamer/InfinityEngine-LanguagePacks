@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "hebrew",
+    "name": "Hebrew",
+    "contents": {
+      "lang.text.playButton.value": "לְשַׂחֵק"
+    }
+  }
+}

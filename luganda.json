@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "luganda",
+    "name": "Luganda",
+    "contents": {
+      "lang.text.playButton.value": "Okuzannya"
+    }
+  }
+}

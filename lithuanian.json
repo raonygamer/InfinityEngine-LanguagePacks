@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "lithuanian",
+    "name": "Lithuanian",
+    "contents": {
+      "lang.text.playButton.value": "žaisti"
+    }
+  }
+}

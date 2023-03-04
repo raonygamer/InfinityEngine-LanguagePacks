@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "ron",
+    "name": "ron",
+    "contents": {
+      "lang.text.playButton.value": "Joaca"
+    }
+  }
+}

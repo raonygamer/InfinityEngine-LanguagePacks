@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "tatar",
+    "name": "Tatar",
+    "contents": {
+      "lang.text.playButton.value": "Уйнау"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "greek",
+    "name": "Greek",
+    "contents": {
+      "lang.text.playButton.value": "Παίζω"
+    }
+  }
+}

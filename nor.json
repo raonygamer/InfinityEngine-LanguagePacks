@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "nor",
+    "name": "nor",
+    "contents": {
+      "lang.text.playButton.value": "Spille"
+    }
+  }
+}

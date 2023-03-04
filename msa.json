@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "msa",
+    "name": "msa",
+    "contents": {
+      "lang.text.playButton.value": "Bermain"
+    }
+  }
+}

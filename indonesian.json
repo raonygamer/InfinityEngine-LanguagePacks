@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "indonesian",
+    "name": "Indonesian",
+    "contents": {
+      "lang.text.playButton.value": "Bermain"
+    }
+  }
+}

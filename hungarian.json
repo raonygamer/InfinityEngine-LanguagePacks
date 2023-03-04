@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "hungarian",
+    "name": "Hungarian",
+    "contents": {
+      "lang.text.playButton.value": "Játék"
+    }
+  }
+}

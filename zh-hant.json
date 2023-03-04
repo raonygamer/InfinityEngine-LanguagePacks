@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "zh-hant",
+    "name": "zh-hant",
+    "contents": {
+      "lang.text.playButton.value": "玩"
+    }
+  }
+}

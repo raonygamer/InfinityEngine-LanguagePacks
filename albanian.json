@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "albanian",
+    "name": "Albanian",
+    "contents": {
+      "lang.text.playButton.value": "Luaj"
+    }
+  }
+}

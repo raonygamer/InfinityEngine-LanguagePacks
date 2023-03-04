@@ -1,0 +1,9 @@
+{
+  "language": {
+    "id": "persian",
+    "name": "Persian",
+    "contents": {
+      "lang.text.playButton.value": "بازی"
+    }
+  }
+}
