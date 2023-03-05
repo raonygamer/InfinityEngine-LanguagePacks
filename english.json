@@ -3,7 +3,7 @@
     "id": "english",
     "name": "English",
     "contents": {
-      "lang.text.playButton.value": "Play"
+      "lang.text.modSelectorTitle.value": "Mod Selector"
     }
   }
 }

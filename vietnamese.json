@@ -3,7 +3,7 @@
     "id": "vietnamese",
     "name": "Vietnamese",
     "contents": {
-      "lang.text.playButton.value": "Chơi"
+      "lang.text.modSelectorTitle.value": "Bộ chọn mod"
     }
   }
 }

@@ -3,7 +3,7 @@
     "id": "spanish",
     "name": "Spanish",
     "contents": {
-      "lang.text.playButton.value": "Jugar"
+      "lang.text.modSelectorTitle.value": "Selector de modificadores"
     }
   }
 }

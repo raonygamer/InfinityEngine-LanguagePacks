@@ -3,7 +3,7 @@
     "id": "portuguese",
     "name": "Portuguese",
     "contents": {
-      "lang.text.playButton.value": "Jogar"
+      "lang.text.modSelectorTitle.value": "Seletor de mod"
     }
   }
 }
