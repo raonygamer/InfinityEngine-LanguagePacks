@@ -1,9 +1,0 @@
-{
-  "language": {
-    "id": "french",
-    "name": "French",
-    "contents": {
-      "lang.text.playButton.value": "Jouer"
-    }
-  }
-}

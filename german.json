@@ -1,9 +1,0 @@
-{
-  "language": {
-    "id": "german",
-    "name": "German",
-    "contents": {
-      "lang.text.playButton.value": "Spielen"
-    }
-  }
-}
